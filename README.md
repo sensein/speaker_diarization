@@ -1,7 +1,3 @@
-Here’s a rephrased version of your README.md page:
-
----
-
 ## Experiments in face analysis
 
 This repository contains some preliminary experiments focused on face analysis from video, covering the following key objectives:
