@@ -1,0 +1,6 @@
+opencv-python
+deepface
+tf-keras
+facenet-pytorch
+scikit-learn
+matplotlib
