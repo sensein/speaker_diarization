@@ -195,7 +195,6 @@ def process_video(video_path: str, num_clusters: int, output_folder: str, backen
 
     # Process the video
     frames = extract_frames(video_path)
-    frames = frames[:50]  # TODO: This is just for testing purposes
     all_face_embeddings = []
     frame_faces_data = []
 

@@ -18,7 +18,9 @@ Once we will have a robuster expertise with these models, we should move our fun
    pip install -r requirements.txt
    ```
 
-2. To run the experiments:
+2. Edit ```video_path``` pointing to your video file to be analyzed. I would suggest starting with a very short video that includes some edge cases (e.g., a zoom call with someone sharing their screen at some point).
+
+3. To run the experiments:
    ```bash
    cd src
    python main.py
